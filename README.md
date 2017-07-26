@@ -1,5 +1,6 @@
 t教程
 
   - feature-A
-  - fix B
+  - fix-B
   - feature-C
+  - feature-D
